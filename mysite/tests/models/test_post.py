@@ -1,3 +1,5 @@
+#test_post.py este arquivo de teste utiliza pytest e pytest-django para testar a criação de um post publicado usando uma factory.
+
 import pytest
 
 from blog.factories import PostFactory
